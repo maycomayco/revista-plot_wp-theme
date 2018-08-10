@@ -21,7 +21,7 @@ $container = get_theme_mod( 'understrap_container_type' );
 					<div class="col-lg-4">
 							<div class="row h100">
 								<div class="col-3 col-sm-6 col-lg-3 logo-footer" >
-									<img src="http://revistaplot.com.br/wp-content/uploads/2017/08/logo.jpg" alt="logo-footer">
+									<img src="?php echo get_site_url(); ?>/wp-content/uploads/2017/08/logo.jpg" alt="logo-footer">
 								</div>
 								<div class="col-9 col-md-6 col-lg-9 logo-footer-info">
 									<p>© REVISTA PLOT <?php echo date("Y"); ?><br>
