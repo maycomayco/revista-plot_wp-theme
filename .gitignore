@@ -2,5 +2,7 @@
 error_log
 gulpfile.js
 sftp-config.json
+package-lock.json
 /src
 /lib
+/node_modules
