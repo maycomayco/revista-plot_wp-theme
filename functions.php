@@ -15,10 +15,11 @@ function theme_enqueue_styles() {
 	$the_theme = wp_get_theme();
   wp_enqueue_style( 'child-understrap-styles', get_stylesheet_directory_uri() . '/css/child-theme.min.css', array(), $the_theme->get( 'Version' ) );
   wp_enqueue_script( 'child-understrap-scripts', get_stylesheet_directory_uri() . '/js/child-theme.min.js', array(), $the_theme->get( 'Version' ), true );
-  wp_enqueue_style( 'knx_font-awesome', get_stylesheet_directory_uri() . '/css/font-awesome.min.css', array(), '4.7.0');
+  // wp_enqueue_style( 'knx_font-awesome', get_stylesheet_directory_uri() . '/css/font-awesome.min.css', array(), '4.7.0');
   wp_enqueue_style( 'knx_body-font', 'https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,600|Roboto:400,500,700', array());
-  wp_enqueue_style( 'knx-child-plot-styles', get_stylesheet_directory_uri() . '/style.css', array(), $the_theme->get( 'Version' ) );
-  wp_enqueue_style( 'knx_child-plot-styles-cesar', get_stylesheet_directory_uri() . '/style-cesar.css', array(), $the_theme->get( 'Version' ) );
+  wp_enqueue_style( 'knx-child-plot-styles', get_stylesheet_directory_uri() . '/css/main.min.css', array(), $the_theme->get( 'Version' ) );
+  // wp_enqueue_style( 'knx-child-plot-styles', get_stylesheet_directory_uri() . '/style.css', array(), $the_theme->get( 'Version' ) );
+  // wp_enqueue_style( 'knx_child-plot-styles-cesar', get_stylesheet_directory_uri() . '/style-cesar.css', array(), $the_theme->get( 'Version' ) );
   // registro librerias de validacion de form solo para la pagina de suscripcion '/quiero-suscribirme'
   if ((is_page( 365 )) || (is_page( 1136 )) || (is_page( 1138 ))) {
     wp_enqueue_script( 'underscore', 'https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js', array(), $the_theme->get( 'Version' ), true );
