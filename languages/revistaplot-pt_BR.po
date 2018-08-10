@@ -1,0 +1,539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revista Plot\n"
+"POT-Creation-Date: 2018-08-09 18:48-0300\n"
+"PO-Revision-Date: 2018-08-09 18:48-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:67 functions.php:101
+msgid "Back"
+msgstr "Voltar"
+
+#: functions.php:73 page-quiero-suscribirme.php:180
+#: woocommerce/archive-product.php:61 woocommerce/single-product.php:54
+msgid "Subscribe"
+msgstr "Assisnar"
+
+#: header-OLD.php:33 header.php:36
+msgid "Skip to content"
+msgstr "Ir para o conteúdo"
+
+#: header.php:89
+msgid "Search &hellip;"
+msgstr "Pesquisar &hellip;"
+
+#: loop-templates/content-arquitecto.php:32
+msgid "Notes as principal architect"
+msgstr "Matérias como arquiteto principal"
+
+#: loop-templates/content-arquitecto.php:68
+#: loop-templates/content-arquitecto.php:112
+msgid "Architect does not have articles as an associate"
+msgstr "Arquiteto não tem artigos como um associado"
+
+#: loop-templates/content-arquitecto.php:76
+msgid "Notes as an associate architect"
+msgstr "Matérias como arquiteto associado"
+
+#: loop-templates/content-page.php:25
+#: loop-templates/content-single-teoria.php:31
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: loop-templates/content-page.php:34 woocommerce/myaccount/my-address.php:52
+msgid "Edit"
+msgstr "Editar"
+
+#: page-quiero-suscribirme.php:68
+msgid "E-mail"
+msgstr "E-mail"
+
+#: page-quiero-suscribirme.php:74 woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/_form-login.php:48
+#: woocommerce/myaccount/_form-login.php:98
+msgid "Password"
+msgstr "Senha"
+
+#: page-quiero-suscribirme.php:81
+msgid "Name"
+msgstr "Nome"
+
+#: page-quiero-suscribirme.php:86
+msgid "Bank name"
+msgstr "Nome do banco"
+
+#: page-quiero-suscribirme.php:93
+msgid "Credit card number"
+msgstr "Número do Cartão de Crédito"
+
+#: page-quiero-suscribirme.php:100
+msgid "Expiration date"
+msgstr "Data de validade"
+
+#: page-quiero-suscribirme.php:107
+msgid "Security code"
+msgstr "Código de Segurança"
+
+#: page-quiero-suscribirme.php:117
+msgid "Street address"
+msgstr "Endereço"
+
+#: page-quiero-suscribirme.php:124
+msgid "Town / City"
+msgstr "Cidade"
+
+#: page-quiero-suscribirme.php:133
+msgid "ZIP"
+msgstr "CEP"
+
+#: page-quiero-suscribirme.php:140
+msgid "State / Zone"
+msgstr "Estado"
+
+#: page-quiero-suscribirme.php:173
+msgid "Phone Number"
+msgstr "Número do Telefone"
+
+#. translators:
+#: search.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da busca para: %s"
+
+#: template-parts/footer_article.php:9
+msgid "Architect"
+msgstr "Arquiteto"
+
+#: template-parts/footer_article.php:14
+msgid "Associated architect"
+msgstr "Arquiteto associado"
+
+#: woocommerce/archive-product.php:54 woocommerce/archive-product.php:55
+#: woocommerce/single-product.php:47 woocommerce/single-product.php:48
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: woocommerce/archive-product.php:55
+msgctxt "label"
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: woocommerce/archive-product.php:64
+msgid "View cart"
+msgstr "Ver Carrinho"
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr "Retornar para a loja"
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:78
+#: woocommerce/checkout/form-pay.php:29
+msgid "Product"
+msgstr "Produto"
+
+#: woocommerce/cart/cart.php:35
+msgid "Product description"
+msgstr "Descrição do produto"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr "Preço"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:102
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:119
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart.php:59 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr "Remover este item"
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr "Disponível por encomenda"
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr "Cupom:"
+
+#: woocommerce/cart/cart.php:137 woocommerce/checkout/form-coupon.php:36
+msgid "Coupon code"
+msgstr "Código do cupom"
+
+#: woocommerce/cart/cart.php:137
+msgid "Apply coupon"
+msgstr "Aplicar cupom"
+
+#: woocommerce/cart/cart.php:142
+msgid "Update cart"
+msgstr "Atualizar carrinho"
+
+#: woocommerce/cart/mini-cart.php:72
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "No products in the cart."
+msgstr "Nenhum produto no carrinho."
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr "Fechar compra"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Você precisa estar logado para finalizar a compra."
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "Seu pedido"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr "Você tem um cupom de desconto?"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr "Clique aqui e informe o código do seu cupom de desconto"
+
+#: woocommerce/checkout/form-coupon.php:40
+msgid "Apply Coupon"
+msgstr "Aplicar Cupom"
+
+#: woocommerce/checkout/form-pay.php:30
+msgid "Qty"
+msgstr "Qtd"
+
+#: woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr "Total"
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Desculpe, parece que não existem métodos de pagamento disponíveis para sua "
+"região. Entre em contato conosco se você precisar de ajuda ou quiser "
+"negociar outra forma de pagamento."
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Desculpe, parece que não existem métodos de pagamento disponíveis para sua "
+"região. Entre em contato conosco se você precisar de ajuda ou quiser "
+"negociar outra forma de pagamento."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Informe os dados acima para ver os meios de pagamento disponíveis."
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Seu navegador não suporta JavaScript ou ele está desativado. Certifique-se "
+"de clique no botão <em>Atualizar totais</em> antes de finalizar o seu "
+"pedido. Você poderá ser cobrado mais do que a quantidade indicada acima se "
+"você simplesmente seguir adiante."
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "Atualizar"
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr "Nome de usuário ou e-mail"
+
+#: woocommerce/global/form-login.php:48
+#: woocommerce/myaccount/_form-login.php:37
+#: woocommerce/myaccount/_form-login.php:56
+msgid "Login"
+msgstr "Entrar"
+
+#: woocommerce/global/form-login.php:51
+#: woocommerce/myaccount/_form-login.php:58
+msgid "Remember me"
+msgstr "Lembre-me"
+
+#: woocommerce/global/form-login.php:55
+#: woocommerce/myaccount/_form-login.php:62
+msgid "Lost your password?"
+msgstr "Perdeu sua senha?"
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qtd"
+
+#: woocommerce/myaccount/_form-login.php:44
+msgid "Username or email address"
+msgstr "Nome de usuário ou e-mail"
+
+#: woocommerce/myaccount/_form-login.php:75
+#: woocommerce/myaccount/_form-login.php:134
+msgid "Register"
+msgstr "Registrar"
+
+#: woocommerce/myaccount/_form-login.php:84
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: woocommerce/myaccount/_form-login.php:91
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Email address"
+msgstr "Endereço de e-mail"
+
+#: woocommerce/myaccount/_form-login.php:110
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr "Nome"
+
+#: woocommerce/myaccount/_form-login.php:114
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "Sobrenome"
+
+#: woocommerce/myaccount/dashboard.php:29
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr "Olá, %1$s (não é %1$s? <a href=\"%2$s\">Sair</a>)"
+
+#: woocommerce/myaccount/dashboard.php:37
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+"A partir do painel de controle de sua conta, você pode ver suas <a href="
+"\"%1$s\">compras recentes</a>, gerenciar seus <a href=\"%2$s\">endereços de "
+"entrega e cobrança</a>, e <a href=\"%3$s\">editar sua senha e detalhes da "
+"conta</a>."
+
+#: woocommerce/myaccount/downloads.php:41 woocommerce/myaccount/orders.php:101
+msgid "Go shop"
+msgstr "Ir às compras"
+
+#: woocommerce/myaccount/downloads.php:43
+msgid "No downloads available yet."
+msgstr "Não há downloads disponíveis ainda."
+
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid "Password change"
+msgstr "Alteração de senha"
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Senha atual (deixe em branco para não alterar)"
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Nova senha (deixe em branco para não alterar)"
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm new password"
+msgstr "Confirmar nova senha"
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:33
+msgid "Billing address"
+msgstr "Endereço de cobrança"
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping address"
+msgstr "Endereço de entrega"
+
+#: woocommerce/myaccount/form-edit-address.php:52
+msgid "Save address"
+msgstr "Salvar endereços"
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"Perdeu sua senha? Digite seu nome de usuário ou endereço de e-mail. Você "
+"receberá um link por e-mail para criar uma nova senha."
+
+#: woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr "Redefinir Senha"
+
+#: woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr "Digite uma nova senha abaixo."
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr "Nova senha"
+
+#: woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr "Digite sua senha novamente"
+
+#: woocommerce/myaccount/form-reset-password.php:47
+msgid "Save"
+msgstr "Salvar"
+
+#: woocommerce/myaccount/my-address.php:42
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Os endereços a seguir serão usados na página de finalizar pedido como "
+"endereços padrões, mas é possível modificá-los durante a finalização do "
+"pedido."
+
+#: woocommerce/myaccount/my-address.php:71
+msgid "You have not set up this type of address yet."
+msgstr "Você não preencheu este tipo de endereço ainda."
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr "Pedido"
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr "Data"
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr "Status"
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr "Pedidos Recentes"
+
+#: woocommerce/myaccount/my-orders.php:55 woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: woocommerce/myaccount/my-orders.php:65
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s para %s item"
+msgstr[1] "%s para %s items"
+
+#: woocommerce/myaccount/my-orders.php:72
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/myaccount/my-orders.php:76
+msgid "View"
+msgstr "Visualizar"
+
+#: woocommerce/myaccount/my-orders.php:80
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. translators: 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] "%1$s por %2$s item"
+msgstr[1] "%1$s por %2$s item"
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr "Anterior"
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr "Próximo"
+
+#: woocommerce/myaccount/orders.php:103
+msgid "No order has been made yet."
+msgstr "Nenhum pedido foi feito ainda."
+
+#: woocommerce/product-searchform.php:27
+msgid "Search products&hellip;"
+msgstr "Pesquisar produtos&hellip;"
+
+#: woocommerce/product-searchform.php:30
+msgctxt "submit button"
+msgid "Search"
+msgstr "Pesquisar"
+
+#: woocommerce/single-product/price.php:34
+msgid "Available:"
+msgstr "Disponibilidade:"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s avaliação do cliente"
+msgstr[1] "%s avaliação do cliente"
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr "Informação adicional"
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr "Descrição"
+
+#. Theme Name of the plugin/theme
+msgid "Revista Plot"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "#"
+msgstr "#"
+
+#. Description of the plugin/theme
+msgid "Revista Plot - Understrap Child Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kinexo"
+msgstr "Kinexo"
+
+#. Author URI of the plugin/theme
+msgid "http://kinexo.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Quiero suscribirme [NO DATOS]"
+msgstr "Quiero suscribirme [sem dados]"
+
+#. Template Name of the plugin/theme
+msgid "Quiero suscribirme"
+msgstr "Quiero suscribirme"
